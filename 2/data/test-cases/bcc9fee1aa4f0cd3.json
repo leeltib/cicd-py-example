@@ -1,0 +1,50 @@
+{
+  "uid" : "bcc9fee1aa4f0cd3",
+  "name" : "test_add_positive",
+  "fullName" : "test_mymath#test_add_positive",
+  "historyId" : "dce78d7dd5962c01ca0a9a6e9bc9920e",
+  "time" : {
+    "start" : 1622830128515,
+    "stop" : 1622830128515,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_mymath"
+  }, {
+    "name" : "host",
+    "value" : "fv-az83-925"
+  }, {
+    "name" : "thread",
+    "value" : "2771-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_mymath"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bcc9fee1aa4f0cd3.json",
+  "parameterValues" : [ ]
+}

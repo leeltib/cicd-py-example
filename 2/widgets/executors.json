@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://leeltib.github.io/cicd-py-example",
+  "buildOrder" : 2,
+  "buildName" : "GitHub Actions Run #907164906",
+  "buildUrl" : "https://github.com/leeltib/cicd-py-example/actions/runs/907164906",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://leeltib.github.io/cicd-py-example/2/"
+} ]
